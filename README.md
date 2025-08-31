@@ -92,5 +92,3 @@ I design streaming data platforms, feature stores, and production‑grade ML wit
 ---
 
 Want to collaborate or chat? Reach me at `shamazhooda1991@gmail.com` or connect on [LinkedIn](https://www.linkedin.com/in/shamaz-hooda/).
-
-
